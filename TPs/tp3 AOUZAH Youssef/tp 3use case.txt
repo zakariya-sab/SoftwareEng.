@@ -1,0 +1,43 @@
+ex1:
+
+
+
+Part 1:
+A user can share a photo by "either" sharing a photo via the camera or sharing it via the gallery ,but for that last option they must select an image from the gallery
+
+An administrator can include their position in a shared text ,but only if geolocation is enabled
+
+Correct(because of "other " in the sentence,thus logging in is not included in here)
+
+Actors can share a photo directly via the device (camera)
+
+When the geolocation is disabled the user can share text but without their geolocation
+
+
+Part2:
+The arrow for include must be a continue line,where in this diagram it is not
+
+
+
+
+
+
+
+Ex3:
+use case name:Send Email
+id:UC1
+bried description:it allows users to exchange emails ,with or without attached files
+primary actor:the user
+preconditions:the patient has been registered before admission
+	      the information is collected up the patient's arrival or during the scheduling of their appointment
+postconditions:the patient can be told wether they are inpatient or patient
+Basic path/Main Flow:
+1-the receptionist schedules the patient's appointment and admission
+2-the receptionist collectes the patients's data during the scheduling or upon the patient's arrival
+3-when the patient arrives,they register before having an admission response
+4-the patient gets an admission response,thus inpatient patients can get a bed 
+5-a bed should be reserved in a ward for inpatient patients
+6-under the patient's request the receptionists may file their insurance claims and medical reports
+
+alternative paths/Exceptions:only
+	      
