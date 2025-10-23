@@ -1,0 +1,135 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="KmmlbRZhbPIOCJxyonni">
+    <mxGraphModel dx="1090" dy="-508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-1" value="" style="ellipse;html=1;shape=startState;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2245" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-1" target="41Hu6G0fE5x8JKcT9YE6-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-3" value="start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2242.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-5" target="41Hu6G0fE5x8JKcT9YE6-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-5" value="break chocolate into pieces" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="2245" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="2235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-7" value="Melt the chocolate pieces" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2220" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-10" target="41Hu6G0fE5x8JKcT9YE6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-10" target="41Hu6G0fE5x8JKcT9YE6-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="2285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-10" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="760" y="2210" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-13" target="41Hu6G0fE5x8JKcT9YE6-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="2285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-19" target="41Hu6G0fE5x8JKcT9YE6-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-13" value="Break the eggs separating the&lt;div&gt;white from the yolks&lt;/div&gt;" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2282.5" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-15" target="41Hu6G0fE5x8JKcT9YE6-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="2260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="2285" />
+              <mxPoint x="1310" y="2290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-15" value="Get the yolks&amp;nbsp;" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2260" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-17" target="41Hu6G0fE5x8JKcT9YE6-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-17" value="Get the whites" style="ellipse;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="2320" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-19" value="" style="shape=line;html=1;strokeWidth=6;direction=south;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2260" width="10" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-21" target="41Hu6G0fE5x8JKcT9YE6-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="2285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-21" value="" style="shape=line;html=1;strokeWidth=6;direction=south;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="2220" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-23" target="41Hu6G0fE5x8JKcT9YE6-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510.3333333333335" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-23" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Add yolks to melted chocolate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1450.33" y="2242.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-25" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;whisk the egg whites&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="2350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-27" target="41Hu6G0fE5x8JKcT9YE6-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510.3333333333335" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-27" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1410.3333333333335" y="2475" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-29" target="41Hu6G0fE5x8JKcT9YE6-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-29" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Pour into individual ramekins&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1450.3333333333335" y="2530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="41Hu6G0fE5x8JKcT9YE6-31" target="41Hu6G0fE5x8JKcT9YE6-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-31" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Chill for at least 3 hours&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="41Hu6G0fE5x8JKcT9YE6-32" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="2535" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
