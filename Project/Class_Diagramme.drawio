@@ -1,0 +1,118 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="VBVB-CLvlZ0_02ULG1gZ">
+    <mxGraphModel dx="2169" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-19" value="" style="endArrow=block;endFill=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-6" target="TWWgoEKC51yMzmwv7Osn-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="296.07" as="sourcePoint" />
+            <mxPoint x="790" y="246.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-21" value="" style="endArrow=block;endFill=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-11" target="TWWgoEKC51yMzmwv7Osn-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="240" as="sourcePoint" />
+            <mxPoint x="730" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-23" value="has" style="endArrow=none;endFill=0;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;exitX=0.978;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="368.695652173913" as="sourcePoint" />
+            <mxPoint x="520" y="29.999999999999773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-24" value="uses" style="endArrow=open;html=1;rounded=0;strokeWidth=1;exitX=0.022;exitY=0.414;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-13" target="TWWgoEKC51yMzmwv7Osn-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950.0000000000005" y="697.8347058823528" as="sourcePoint" />
+            <mxPoint x="790" y="246.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-25" value="stores" style="endArrow=none;html=1;rounded=0;strokeWidth=1;exitX=-0.01;exitY=0.358;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.896;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-18" target="TWWgoEKC51yMzmwv7Osn-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050.0000000000005" y="-130.00142857142868" as="sourcePoint" />
+            <mxPoint x="790" y="246.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-26" value="stores" style="endArrow=none;html=1;rounded=0;strokeWidth=1;exitX=-0.003;exitY=0.442;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-18" target="TWWgoEKC51yMzmwv7Osn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="-124" as="sourcePoint" />
+            <mxPoint x="790" y="246.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-27" value="" style="endArrow=block;endFill=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-11" target="TWWgoEKC51yMzmwv7Osn-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="749.4736842105262" y="460" as="sourcePoint" />
+            <mxPoint x="755" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-28" value="" style="endArrow=block;endFill=1;html=1;rounded=0;entryX=0.013;entryY=0.407;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-11" target="TWWgoEKC51yMzmwv7Osn-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730.3703703703704" y="460" as="sourcePoint" />
+            <mxPoint x="755" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-29" value="" style="endArrow=block;endFill=1;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-11" target="TWWgoEKC51yMzmwv7Osn-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="460" as="sourcePoint" />
+            <mxPoint x="755" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-9" value="«class»&lt;b&gt;clsCurrency&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;- currencyCode: string&lt;br&gt;- currencyName: string&lt;br&gt;- exchangeRate: double&lt;br&gt;-------------------&lt;br&gt;+ getExchangeRate()&lt;br&gt;+ updateRate()&lt;br&gt;+ convertAmount()&lt;br&gt;+ findCurrency()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="-200" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-6" value="«class»&lt;b&gt;clsPerson&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;- firstName: string&lt;br&gt;- lastName: string&lt;br&gt;- email: string&lt;br&gt;- phone: string&lt;br&gt;-------------------&lt;br&gt;+ getFullName(): string&lt;br&gt;+ updateInfo(): void" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="40" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-20" value="" style="endArrow=block;endFill=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-6" target="TWWgoEKC51yMzmwv7Osn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="296.07" as="sourcePoint" />
+            <mxPoint x="790" y="246.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-7" value="«class»&lt;b&gt;clsBankClient&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;- accountNumber: string&lt;br&gt;- pinCode: string&lt;br&gt;- accountBalance: double&lt;br&gt;- clientID: string&lt;br&gt;-------------------&lt;br&gt;+ deposit(): bool&lt;br&gt;+ withdraw(): bool&lt;br&gt;+ getBalance(): double&lt;br&gt;+ updateProfile(): bool&lt;br&gt;+ deleteClient(): bool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="360" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-22" value="manages" style="endArrow=none;endFill=0;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpSize=6;strokeWidth=1;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-8" target="TWWgoEKC51yMzmwv7Osn-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="296.07" as="sourcePoint" />
+            <mxPoint x="790" y="246.07" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-8" value="«class»&lt;b&gt;clsUser&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;- username: string&lt;br&gt;- password: string&lt;br&gt;- permissions: int&lt;br&gt;- loginAttempts: int&lt;br&gt;-------------------&lt;br&gt;+ authenticate(): bool&lt;br&gt;+ hasPermission(): bool&lt;br&gt;+ trackActivity(): void&lt;br&gt;+ resetPassword(): bool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-210.00000000000006" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-18" value="«class»&lt;b&gt;clsTransaction&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;- transactionID: string&lt;br&gt;- clientAccount: string&lt;br&gt;- amount: double&lt;br&gt;- transactionType: string&lt;br&gt;-------------------&lt;br&gt;+ logTransaction()&lt;br&gt;+ getTransactionHistory()&lt;br&gt;+ validateTransaction()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-120" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-17" value="«class»&lt;b&gt;FileManager&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;- filePath: string&lt;br&gt;-------------------&lt;br&gt;+ readClients()&lt;br&gt;+ writeClients()&lt;br&gt;+ readUsers()&lt;br&gt;+ writeUsers()&lt;br&gt;+ readCurrencies()&lt;br&gt;+ writeCurrencies()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-120" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-11" value="«class»&lt;b&gt;clsScreen&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;- screenTitle: string&lt;br&gt;- screenOptions: vector&lt;br&gt;-------------------&lt;br&gt;+ showScreen(): void&lt;br&gt;+ getChoice(): int&lt;br&gt;+ goBack(): void" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-12" value="«class»&lt;b&gt;ClientScreen&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;+ showClientList()&lt;br&gt;+ addNewClient()&lt;br&gt;+ deleteClient()&lt;br&gt;+ updateClientInfo()&lt;br&gt;+ findClient()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="60" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-13" value="«class»&lt;b&gt;CurrencyScreen&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;+ listCurrencies()&lt;br&gt;+ findCurrency()&lt;br&gt;+ updateExchangeRate()&lt;br&gt;+ currencyCalculator()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="550" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-14" value="«class»&lt;b&gt;TransactionScreen&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;+ showDepositScreen()&lt;br&gt;+ showWithdrawScreen()&lt;br&gt;+ showTransferScreen()&lt;br&gt;+ showBalanceScreen()&lt;br&gt;+ showTransactionLog()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="220" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-15" value="«class»&lt;b&gt;UserScreen&lt;/b&gt;&lt;br&gt;-------------------&lt;br&gt;+ showUserList()&lt;br&gt;+ addNewUser()&lt;br&gt;+ updateUserPermissions()&lt;br&gt;+ loginScreen()&lt;br&gt;+ registerScreen()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="380" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TWWgoEKC51yMzmwv7Osn-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.414;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TWWgoEKC51yMzmwv7Osn-9" target="TWWgoEKC51yMzmwv7Osn-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="-330" />
+              <mxPoint x="864" y="-330" />
+              <mxPoint x="864" y="-121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
